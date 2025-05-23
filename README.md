@@ -27,4 +27,4 @@ O site é uma **landing page responsiva** que simula uma empresa fictícia chama
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seuusuario/We-Care-Project.git
+git clone https://github.com/HenzoAlmeida/We-Care-About-Yout-Pet/
