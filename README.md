@@ -1,30 +1,30 @@
 # 💙 We Care Project
 
-Projeto desenvolvido como parte dos estudos no **Dev Club**, focado em praticar **HTML** e **CSS** com aplicação de **responsividade** e boas práticas de layout.
+This project was developed as part of the studies at **Dev Club**, with a focus on practicing **HTML** and **CSS**, implementing **responsiveness** and layout best practices.
 
-O site é uma **landing page responsiva** que simula uma empresa fictícia chamada **We Care**, voltada para cuidados com pets.
-
----
-
-## 🖼️ Mockup do Projeto
-
-### 🧩 Ambos (Comparativo)
-<img src="https://github.com/HenzoAlmeida/We-Care-About-Yout-Pet/blob/main/IMG/WE-CARE-MOCKUP-AMBOS.png?raw=true" alt="Mockup Ambos" width="100%"/>
-
-> As imagens demonstram como a página se adapta a diferentes tamanhos de tela (mobile e desktop).
+The website is a **responsive landing page** that simulates a fictional company called **We Care**, dedicated to pet care.
 
 ---
 
-## 🔧 Tecnologias Utilizadas
+## 🖼️ Project Mockup
+
+### 🧩 Both Versions (Comparison)  
+<img src="https://github.com/HenzoAlmeida/We-Care-About-Yout-Pet/blob/main/IMG/WE-CARE-MOCKUP-AMBOS.png?raw=true" alt="Mockup Both" width="100%"/>
+
+> The images demonstrate how the page adapts to different screen sizes (mobile and desktop).
+
+---
+
+## 🔧 Technologies Used
 
 - HTML5  
 - CSS3  
-- Responsividade com Media Queries
+- Responsiveness with Media Queries
 
 ---
 
-## 📂 Como usar
+## 📂 How to Use
 
-1. Clone o repositório:
+1. Clone the repository:
 ```bash
 git clone https://github.com/HenzoAlmeida/We-Care-About-Yout-Pet/
