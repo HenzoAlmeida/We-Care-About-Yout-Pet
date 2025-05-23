@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: "Montserrat", sans-serif;
+}
+
+nav {
+    margin: 44px 0 144px 76px;
+    text-transform: uppercase;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 23px;
+    list-style: none;
+}
+
+nav ul li:last-child {
+    margin-right: 0;
+}
+
+nav ul li a {
+    color: #989D9C;;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.button a{
+    background-color: #665AE1;
+    border-radius: 32px;
+    padding: 12px 24px;
+    color: #fff;
+    font-size: 24px;
+    font-weight: 500;
+    border: none;
+}
+
+.png {
+    width: 568px;
+    display: inline-block;
+    margin: 0 86px 0 125px;
+}
+
+.text {
+    width: 515px;
+    display: inline-block;
+}
+
+.text h2 {
+    font-size: 100px;
+    font-weight: 900;
+    color: #515151;
+}
+
+.text h4 {
+    font-size: 57px;
+    font-weight: 500;
+    color: #515151;
+}
+
+.text p {
+    font-size: 24px;
+    font-weight: 400;
+    color: #515151;
+    margin: 32px 0 65px 0;
+}
+
+.button-section {
+    padding: 16px 32px;
+    background-color: #ADFF00;
+    border-radius: 32px;
+    font-size: 28px;
+    font-weight: 700;
+    color: #000;
+    text-transform: uppercase;
+}
+
+@media screen and (max-width: 900px) {
+    header {
+        display: none;
+    }
+
+    .png {
+        width: 100%;
+        margin: 0;
+    }
+
+    .png img{
+        width: 350px;
+        margin: 100px auto 50px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .text {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        gap: 20px;
+    }
+
+    .text h2 {
+        font-size: 70px;
+        font-weight: 900;
+        color: #515151;
+    }
+
+    .text h4 {
+        font-size: 40px;
+        font-weight: 500;
+        color: #515151;
+    }
+
+    .text p {
+        display: none;
+    }
+}
